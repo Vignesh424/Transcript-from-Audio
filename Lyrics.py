@@ -1,6 +1,6 @@
 import assemblyai as aai
 
-aai.settings.api_key = "649d9c788b8b473ea337f0dd105022eb"
+aai.settings.api_key = "API_KEY"
 
 audio_url = "BajiraoMastani.mp3"
 
